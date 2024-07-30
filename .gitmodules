@@ -1,0 +1,3 @@
+[submodule "inc/libft"]
+	path = inc/libft
+	url = https://github.com/Mophe94/libft_42.git
