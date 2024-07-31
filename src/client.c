@@ -6,7 +6,7 @@
 /*   By: dbajeux <dbajeux@student.19.be>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/29 13:09:27 by dbajeux           #+#    #+#             */
-/*   Updated: 2024/07/31 19:31:20 by dbajeux          ###   ########.fr       */
+/*   Updated: 2024/07/31 21:06:44 by dbajeux          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,7 +62,7 @@ int	main(int argc, char **argv)
 	}
 	else
 	{
-		ft_printf("Error: Please enter the correct number of arguments./n");
+		ft_printf("Error: Please enter the correct number of arguments.");
 		return (1);
 	}
 	return (0);
